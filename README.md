@@ -1,6 +1,6 @@
-# hackaton_test
+# Medical APP
 
-A new Flutter project.
+My new flutter project I did for a hackathon. 
 
 ## Getting Started
 
