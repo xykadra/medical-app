@@ -1,16 +1,26 @@
 # Medical APP
 
-My new flutter project I did for a hackathon. 
+My new flutter project I did for a hackathon. Where it won 2nd place. 
 
-## Getting Started
+#Features 
+- Modern design
+- Login and forgot password page
+- Home Page
+- Settings page
+- Report problem page
+- History page with ability to see previous appointments
+- Animations
+- Navigation bar
+- Scheduling system
+- Notifications
 
-This project is a starting point for a Flutter application.
+#Requirements
+- Flutter 2.0.0. or newer
 
-A few resources to get you started if this is your first Flutter project:
+#Installation
+1. Clonew the medical-app repository.
+2. Open the project in Android Studio or Visual Studio Code
+3. Run the app on an emulator or physical device. If you want to download latest version, here is apk link: https://drive.google.com/file/d/1BX5KSGSAJyE_lLlJYntVtzM7dPWlWRfB/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Credits
+Medical App was developed by Harun Hadžo, Nedim Kunovac, Mirza Karić and Mirza Kadrić on Telemach GOODHackathon 2022. 
