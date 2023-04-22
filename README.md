@@ -4,15 +4,11 @@ My new flutter project I did for a hackathon. Where it won 2nd place.
 
 # Features 
 - Modern design
-- Login and forgot password page
-- Home Page
-- Settings page
-- Report problem page
-- History page with ability to see previous appointments
+- Login and forgot password page, home page, settings page, report problem page, history page (with ability to see previous appoitments)
 - Animations
 - Navigation bar
 - Scheduling system
-- Notifications
++ Notifications
 
 # Requirements
 - Flutter 2.0.0. or newer
